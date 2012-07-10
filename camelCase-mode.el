@@ -215,3 +215,4 @@ with word around mark."
     (transpose-subr 'camelCase-forward-word count)))
 
 (provide 'camelCase)
+(provide 'camelCase-mode)
